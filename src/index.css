@@ -1,0 +1,26 @@
+/* ContacCard */
+
+.imagen{
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+img{
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+}
+
+/* Formulario */
+
+.form-card {
+    width: 100%;
+    max-width: 450px;
+    margin-top: 60px;
+    border-radius: 10px;
+    background-color: white;
+}
